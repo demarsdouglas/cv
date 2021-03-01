@@ -35,6 +35,11 @@ h3 {
   position: relative;
 }
 
+.airship {
+  position: absolute;
+  right: 200px;
+}
+
 .first-cloud {
   position: absolute;
   right: 300px;
