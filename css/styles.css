@@ -6,16 +6,19 @@ body {
 }
 
 h1 {
+  color: #fbeeac;
   font-family: 'Sacramento', cursive;
   font-size: 72px;
   margin-top: 0;
 }
 
 h2 {
+  color: #fbeeac;
   font-family: 'Merriweather', serif;
 }
 
 h3 {
+  color: #fbeeac;
   font-family: 'Merriweather', serif;
 }
 
@@ -25,12 +28,16 @@ h3 {
   position: relative;
 }
 
+p {
+  color: #fbeeac;
+}
+
 .middle-container {
   background-color: #2D6187;
 }
 
 .bottom-container {
-  background-color: #EFFAD3;
+  background-color: #f4d160;
   margin-bottom: 0;
   position: relative;
 }
@@ -57,5 +64,6 @@ h3 {
 }
 
 .signature {
+  color: black;
   margin: 0;
 }
